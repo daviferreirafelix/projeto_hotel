@@ -13,7 +13,7 @@ body{
 header{
 
     height: 550px;
-    background-image: url("../imagens/header.jpg");
+    background-image: url("imagens/header.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -234,28 +234,28 @@ aside #conheca-mais{
 
 #div1{
 
-    background-image: url("../imagens/imgbolinha/imgbolinha1.jpg");
+    background-image: url("imagens/imgbolinha/imgbolinha1.jpg");
     
 }
 
 #div2{
 
-    background-image: url("../imagens/imgbolinha/imgbolinha2.jpg");
+    background-image: url("imagens/imgbolinha/imgbolinha2.jpg");
 }
 
 #div3{
 
-    background-image: url("../imagens/imgbolinha/imgbolinha3.jpg");
+    background-image: url("imagens/imgbolinha/imgbolinha3.jpg");
 }
 
 #div4{
 
-    background-image: url("../imagens/imgbolinha/imgbolinha4.jpg");
+    background-image: url("imagens/imgbolinha/imgbolinha4.jpg");
 }
 
 #div5{
 
-    background-image: url("../imagens/imgbolinha/imgbolinha5.jpg");
+    background-image: url("imagens/imgbolinha/imgbolinha5.jpg");
 }
 
 .div h3{
